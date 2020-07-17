@@ -245,7 +245,7 @@
       <plugin>
         <groupId>com.github.spotbugs</groupId>
         <artifactId>spotbugs-maven-plugin</artifactId>
-        <version>4.0.5</version>
+        <version>4.0.4</version>
         <configuration>
           <effort>Max</effort>
           <omitVisitors>CrossSiteScripting,DefaultEncodingDetector,FindNullDeref</omitVisitors>
